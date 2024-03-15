@@ -20,3 +20,5 @@ TG:@Lil_uh
 QQ:501631267
 
 至于py js 或者qx 重写没有 因为我没学这些
+
+明天的签到的seatAppointmentRecordid去抓明天取消预约的包
